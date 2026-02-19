@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BorderBullet
+  - Border
+  - Gun
+  - Enemy
+  - PlayerBullet
+  - EnemyBullet
+  - RunAway
+  - CoinTrailTarget
+  - BorderItem
+  - BorderItemGet
+  - BorderDeco
+  - InvisibleWall
+  - EnemyWays
+  - BossTarget
+  - Moon
+  - FinalBossTarget
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platform
+  - Water
+  - UI
+  - Player
+  - Coin
+  - InvisibleWall
+  - bulletWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
